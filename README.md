@@ -70,7 +70,7 @@ Add the following configuration to your `cline_mcp_settings.json` (adjust the pa
     "n8n-api-mcp": {
       "command": "node",
       "args": [
-        "C:\\Users\\username\\OneDrive\\Documents\\Cline\\MCP\\N8N-api-MCP\\build\\index.js" // <-- Update this path if needed
+        "C:\\MCP-Servers\\N8N-api-MCP\\build\\index.js" // <-- Update this path if needed
       ],
       "env": {
         "N8N_URL": "YOUR_N8N_INSTANCE_URL", // e.g., "http://192.168.1.100:5678"
